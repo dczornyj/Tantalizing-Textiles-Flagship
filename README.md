@@ -1,5 +1,8 @@
 # Tantalizing-Textiles-Flagship
 
+## Link to Tableau Dashboard
+https://public.tableau.com/app/profile/daniel.czornyj/viz/TantalizingTextilesCustomerRepresentation/TantalizingTextiles
+
 ## Intro
 Currently, Tantalizing Textiles operates with one store in each state within the United States of America. With expectations for growth, upper management wants to get a head start and begin to plan how they can save shipping costs and engage better with customers in their physical stores. As of today, all shipped orders made on Tantalizing Textiles’ website are packaged up and sent out to customers from their lone shipment warehouse in the greater Los Angeles area. 
 
